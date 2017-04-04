@@ -1,6 +1,6 @@
 # FTalks
-site FT talks 
-O FTalks um projeto é composto de palestras mensais, organizadas pelos coordenadores do 
+
+O FTalks é um projeto é composto de palestras mensais, organizadas pelos coordenadores do 
 projeto, com tema e palestrante escolhidos pela comunidade*, assim abrindo o espaço 
 para pessoas que queiram apresentar algum assunto que seja interessante ao projeto 
 (a escolha é feita por redes sociais), a palestra poderia ser vista tanto presencialmente 
